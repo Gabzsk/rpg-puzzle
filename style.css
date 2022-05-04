@@ -1,0 +1,23 @@
+:root {
+    background-color:  #010101;
+  }
+
+  body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+input{
+font-family: 'Lekton', sans-serif;
+font-size: 1cm;
+color: white;
+}
+
+.button{
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+}
